@@ -1,0 +1,13 @@
+# ديوان التلاوة (Diwan Al-Tilawa)
+
+> ديوان التلاوة قناة لنشر القرآن الكريم مُرتّلاً كاملاً بالنص العثماني المتزامن مع التلاوة وبجودة عالية ومع ملفات الترجمة، وتضمّ الرقية الشرعية كاملة بأصوات نخبة من القرّاء، والمصحف المرتل النادر للشيخ المنشاوي من تسجيلات الإذاعة المصرية.
+
+القناة: https://www.youtube.com/@DiwanAlTilawa
+
+## الأقسام
+- [الرقية الشرعية](https://a7medmaher1993.github.io/diwan-altilawa/ruqyah/index.html): الرقية الشرعية كاملة بأصوات عدة قرّاء مع النص الكامل والأدعية النبوية.
+- [المصحف المرتل النادر للمنشاوي](https://a7medmaher1993.github.io/diwan-altilawa/rare/index.html): تسجيلات الإذاعة المصرية 1965-1967.
+- [المصحف المرتل , المنشاوي](https://a7medmaher1993.github.io/diwan-altilawa/minshawi/index.html)
+- [المصحف المرتل , البنا](https://a7medmaher1993.github.io/diwan-altilawa/elbanna/index.html)
+
+كل صفحة فيديو تتضمّن النص الكامل (transcript) وبيانات VideoObject منظمة.
